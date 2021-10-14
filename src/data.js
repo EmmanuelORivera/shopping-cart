@@ -67,7 +67,7 @@ export const popularProducts = [
   },
   {
     id: 7,
-    img: 'https://www.vintageindustries.nl/download_front/qympzk1762/2217_Arrow_Jacket_Forest.png',
+    img: 'https://assets.webiconspng.com/uploads/2017/09/Jacket-PNG-Image-62941.png',
   },
   {
     id: 8,
