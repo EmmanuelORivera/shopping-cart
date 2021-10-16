@@ -6,6 +6,7 @@ import Newsletter from './components/Newsletter';
 import Footer from './components/Footer';
 import Register from './pages/Register';
 import Login from './pages/Login';
+import Cart from './pages/Cart';
 // import Home from './pages/Home';
 
 const App = () => {
@@ -16,7 +17,8 @@ const App = () => {
       {/* <ProductList /> */}
       {/* <Product /> */}
       {/* <Register /> */}
-      <Login />
+      {/* <Login /> */}
+      <Cart />
       <Newsletter />
       <Footer />
     </>
